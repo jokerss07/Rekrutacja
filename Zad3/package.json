@@ -1,7 +1,7 @@
 {
   "name": "task",
   "version": "0.1.0",
-  "homepage": "https://jokerss07.github.io/Rekrutacja",
+  "homepage": "https://jokerss07.github.io/Rekrutacja/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.1",
